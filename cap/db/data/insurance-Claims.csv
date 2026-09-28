@@ -1,0 +1,2 @@
+claimId;policyId;customerId;claimType;incidentDate;description;claimAmount;status
+CLM100045;POL1001;CUS1001;ACCIDENT;2026-09-10;Motor accident claim;8500.00;UNDER_REVIEW

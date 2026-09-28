@@ -1,0 +1,4 @@
+documentId;claimId;documentType;status;mandatory
+DOC1001;CLM100045;Accident Report;RECEIVED;true
+DOC1002;CLM100045;Repair Estimate;MISSING;true
+DOC1003;CLM100045;Police Report;MISSING;false

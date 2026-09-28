@@ -1,0 +1,2 @@
+policyId;customerId;policyType;status;startDate;endDate;coverageLimit;deductible
+POL1001;CUS1001;Motor Insurance;ACTIVE;2026-01-01;2026-12-31;50000.00;500.00

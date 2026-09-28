@@ -1,0 +1,20 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+**/*token-response*.json
+**/*service-key*.json
+**/*-key.json
+
+# Dependencies
+**/node_modules/
+
+# Generated build and deployment files
+**/mta_archives/
+**/gen/
+**/mtar
+.DS_Store
+*.log
+
+# Platform files
+**/multiapps-plugin.*
